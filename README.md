@@ -1,7 +1,7 @@
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966](https://github.com/user-attachments/assets/26ed1892-4250-4c6f-b7f1-960c8746f710)
 <h1 align="center">Hi 👋, I'm Ashok Kumar_Kanamala</h1>
 <h3 align="center">A passionate DevOps developer from India</h3>
-
+<img align="right" alt="Coding" with="400" src="https://tenor.com/en-GB/view/developer-gif-2461104302247665708.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanamalaashokkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kanamalaashokkumar" /> </p>
 
 - 🔭 I’m currently working on **DevOps**  
@@ -15,7 +15,7 @@
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Mainframes,Cobol,JCL,VSAM,DB2,Endevor,JIRA,CA7**
 
 - 📫 How to reach me **kanamalaashokkumar@gmail.com**
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353634302f66696c652f6f726967696e616c2d61326238326162383737396563653463343964663336373266373735336363622e676966](https://github.com/user-attachments/assets/eec5cd06-e383-4345-90db-c9d26e942925)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
